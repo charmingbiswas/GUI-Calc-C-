@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/external/wxWidgets-3.2.4/include/",
+                "${workspaceFolder}/external/wxWidgets-3.2.4/macbuild/lib/wx/include/osx_cocoa-unicode-3.2/"
+            ],
+            "defines": [
+                "__WXOSX_COCOA__",
+                "__WXMAC__",
+                "__WXOSX__"
+            ],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

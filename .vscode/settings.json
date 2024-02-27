@@ -1,0 +1,7 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "files.associations": {
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    }
+}
